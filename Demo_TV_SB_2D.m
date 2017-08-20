@@ -37,7 +37,7 @@
 % This method is a modification of Goldstein'n code mrics.m downloaded from 
 % (http://www.ece.rice.edu/~tag7/Tom_Goldstein/Split_Bregman.html), see Tom
 % Goldstein and Stanley Osher. The Split Bregman Method for L1-Regularized
-% Problems. SIAM J. Imaging Sci., 2(2), 323–343.  
+% Problems. SIAM J. Imaging Sci., 2(2), 323?43.  
 
 N       = [40 40];  % The image will be NxN
 sparsity = .85; % use only 30% on the K-Space data for CS 
@@ -82,3 +82,8 @@ title('Recovered');
 subplot(2,2,3);
 plot(errAll); axis tight; title(['Sol. error' ]);
 %
+
+
+
+%%Edit by JiaJiaji on desktop
+
