@@ -30,7 +30,7 @@
 % https://github.com/HGGM-LIM/Split-Bregman-Total-Variation-Jacobian-Matrix
 % 
 % Juan FPJ Abascal, Judit Chamorro-Servent
-% Departamento de Bioingeniería e Ingeniería Aeroespacial
+% Departamento de BioingenierÃ­a e IngenierÃ­a Aeroespacial
 % Universidad Carlos III de Madrid, Madrid, Spain
 % juanabascal78@gmail.com, juchamser@gmail.com, desco@hggm.es
 
@@ -86,4 +86,4 @@ plot(errAll); axis tight; title(['Sol. error' ]);
 
 
 %%Edit by JiaJiaji on desktop
-
+%%Edit by JiaJiaji on web page
